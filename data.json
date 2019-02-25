@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Bran",
+    "last_name": "Greedier",
+    "email": "bgreedier0@creativecommons.org",
+    "score": 64
+  },
+  {
+    "id": 2,
+    "first_name": "Meghan",
+    "last_name": "Poultney",
+    "email": "mpoultney1@cam.ac.uk",
+    "score": 86
+  },
+  {
+    "id": 3,
+    "first_name": "Atlanta",
+    "last_name": "Tanzig",
+    "email": "atanzig2@telegraph.co.uk",
+    "score": 57
+  },
+  {
+    "id": 4,
+    "first_name": "Freida",
+    "last_name": "Grant",
+    "email": "fgrant3@nhs.uk",
+    "score": 19
+  },
+  {
+    "id": 5,
+    "first_name": "Karly",
+    "last_name": "Lister",
+    "email": "klister4@histats.com",
+    "score": 63
+  },
+  {
+    "id": 6,
+    "first_name": "Francoise",
+    "last_name": "Litherland",
+    "email": "flitherland5@diigo.com",
+    "score": 85
+  },
+  {
+    "id": 7,
+    "first_name": "Kristien",
+    "last_name": "Northall",
+    "email": "knorthall6@altervista.org",
+    "score": 19
+  },
+  {
+    "id": 8,
+    "first_name": "Marje",
+    "last_name": "Ebbrell",
+    "email": "mebbrell7@vinaora.com",
+    "score": 46
+  },
+  {
+    "id": 9,
+    "first_name": "Beatrisa",
+    "last_name": "Shefton",
+    "email": "bshefton8@apache.org",
+    "score": 53
+  },
+  {
+    "id": 10,
+    "first_name": "Ettie",
+    "last_name": "Sleite",
+    "email": "esleite9@gizmodo.com",
+    "score": 57
+  }
+]
